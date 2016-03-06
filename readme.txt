@@ -5,3 +5,4 @@ issue bug001.
 git stash second.
 other dev branch.
 after other edit.
+i add message.
